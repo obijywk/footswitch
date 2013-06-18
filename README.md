@@ -7,6 +7,8 @@ MIDI controller for [Reaper](http://www.reaper.fm), via
 [ReaStream](http://www.reaper.fm/reaplugs/).
 
 That's awfully specific, but I guess it's decent example code for
+
 * listening to the triple footswitch in exclusive mode on Linux
 * sending MIDI events to ReaStream
+
 so maybe one of these could be useful in some other context.
